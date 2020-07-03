@@ -27,14 +27,15 @@ x.yeast.iqlr <- aldex.clr(yeast, conds.yeast, denom="iqlr")
 x.yeast.lvha <- aldex.clr(yeast, conds.yeast, denom="lvha")
 x.e.yeast <- aldex.effect(x.yeast)
 
+data(selex)
 conds.s <- c(rep("A", 7),rep("B",7))
 s <- aldex.clr(selex, conds.s)
 s.iqlr <- aldex.clr(selex, conds.s, denom="iqlr")
 s.lvha <- aldex.clr(selex, conds.s, denom="lvha")
 s.e <- aldex.effect(s)
 
-
-postscript("vera-book/Disp-v-Abund.eps", height=7, width=6)
+setEPS()
+postscript("vera-book/Disp-v-Abund.eps", height=7, width=6, horizontal=F)
 par(mfrow=c(2,2))
 
 plot(x.e.yeast$diff.win, x.e.yeast$rab.all, col="grey80", pch=19,
