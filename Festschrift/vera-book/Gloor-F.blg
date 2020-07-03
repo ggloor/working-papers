@@ -4,45 +4,45 @@ The top-level auxiliary file: Gloor-F.aux
 The style file: spmpsci.bst
 Database file #1: bibdesk_refs.bib.bib
 Warning--missing publisher in barcelo:2001
-You've used 39 entries,
+You've used 40 entries,
             2945 wiz_defined-function locations,
-            899 strings with 16090 characters,
-and the built_in function-call counts, 25480 in all, are:
-= -- 1863
-> -- 1393
+            904 strings with 16490 characters,
+and the built_in function-call counts, 26540 in all, are:
+= -- 1933
+> -- 1475
 < -- 2
-+ -- 571
-- -- 526
-* -- 1906
-:= -- 3547
-add.period$ -- 74
-call.type$ -- 39
-change.case$ -- 381
++ -- 605
+- -- 558
+* -- 1996
+:= -- 3697
+add.period$ -- 76
+call.type$ -- 40
+change.case$ -- 400
 chr.to.int$ -- 0
-cite$ -- 40
-duplicate$ -- 2030
-empty$ -- 1904
-format.name$ -- 564
-if$ -- 5135
+cite$ -- 41
+duplicate$ -- 2102
+empty$ -- 1966
+format.name$ -- 597
+if$ -- 5340
 int.to.chr$ -- 0
-int.to.str$ -- 39
-missing$ -- 565
-newline$ -- 199
-num.names$ -- 78
-pop$ -- 919
+int.to.str$ -- 40
+missing$ -- 589
+newline$ -- 204
+num.names$ -- 80
+pop$ -- 960
 preamble$ -- 1
-purify$ -- 341
+purify$ -- 359
 quote$ -- 0
-skip$ -- 331
+skip$ -- 339
 stack$ -- 0
-substring$ -- 923
-swap$ -- 1330
+substring$ -- 956
+swap$ -- 1385
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 154
+type$ -- 158
 warning$ -- 1
-while$ -- 118
-width$ -- 41
-write$ -- 463
+while$ -- 121
+width$ -- 42
+write$ -- 475
 (There was 1 warning)

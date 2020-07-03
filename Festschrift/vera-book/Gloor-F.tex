@@ -255,12 +255,12 @@ The fourth approach replaces the geometric mean in Equation \ref{eq:CLR} with th
 
 % For figures use
 %
-\begin{figure}[b]
+\begin{figure}[!b]
 \sidecaption[t]
 % Use the relevant command for your figure-insertion program
 % to insert the figure file.
 % For example, with the graphicx style use
-\includegraphics[scale=.58]{MAx4-book.eps}
+\includegraphics[width=10cm]{MAx4-book.eps}
 %
 % If no graphics program available, insert a blank space i.e. use
 %\picplace{5cm}{2cm} % Give the correct figure height and width in cm
@@ -272,7 +272,7 @@ The fourth approach replaces the geometric mean in Equation \ref{eq:CLR} with th
   
 The values in Figure \ref{Fig:f3a}:denom=all were computed using the CLR. We can see that there is a large asymmetry in distribution, the most striking of which are the functions in BV located below the midline on the y-axis. This asymmetry is driven by the greater complexity of the BV microbial community, and the generally larger and more complex genomes in the set of bacteria found in BV \cite{macklaim:2013}. The asymmetry is composed of both presence-absence (sparsity) and large differences between groups. This can be seen with the sparsity overlay color, where functions that contain one or more zeros are coloured in a dark grey. 
 
-Note that there appears to be two clusters of functions that are just above the y-axis midline. The ones at 4,2 are composed of sparse functions expressed at low levels in BV but that are absent or very rare in H.  We also see a second group composed of functions found in common between the the H and BV group that is  expressed at very high relative levels, centred around 1,1.5 on the  plot. These are generally housekeeping functions that are central and required by all living organisms, and we can see that the two sets of housekeeping functions that are  highlighted cluster here: translational protein functions in blue (rib), and glycolysis (glycolic, core sugar metabolism) related functions in magenta. Many of the functions in these groups are often used as internal standards for comparison by qPCR as it is assumed that their expression is invariant \cite{Scott:2010}, and we are attempting to minimize the displacement of these functions from a difference location of 0 . The median offset of the two sets of housekeeping functions  on the y-axis is given, and we can see that they are both observed to be substantially above the expected location of 0 when the CLR alone is used to determine differential relative abundance.   
+Note that there appears to be two clusters of functions that are just above the y-axis midline. The ones at location [x=4, y=2] are composed of sparse functions expressed at low levels in BV but that are absent or very rare in H.  We also see a second group composed of functions found in common between the the H and BV group that is  expressed at very high relative levels, centred around location [x=1, y=1.5] on the  plot. These are generally housekeeping functions that are central and required by all living organisms, and we can see that the two sets of housekeeping functions that are  highlighted cluster here: translational protein functions in blue (rib), and glycolysis (glycolic, core sugar metabolism) related functions in magenta. Many of the functions in these groups are often used as internal standards for comparison by qPCR as it is assumed that their expression is invariant \cite{Scott:2010}, and we are attempting to minimize the displacement of these functions from a difference location of 0 . The median offset of the two sets of housekeeping functions  on the y-axis is given, and we can see that they are both observed to be substantially above the expected location of 0 when the CLR alone is used to determine differential relative abundance.   
 
 The other three panels in Figure \ref{Fig:f3a} shows the result of applying  three adjustment approaches to the asymmetric meta-RNA-sea dataset. The LVHA, IQLR and user-defined-adjustment (ribosome) methods all centred the data  better than did the CLR. In the case of the user-defined functions we used the set of translational protein functions in blue as the denominator in the denom=ribosomal panel. We can see that the bulk of the expected invariant groups are closer to the y-axis midline with two adjustments, and the offset of the translational and glycolytic functions is reduced substantially when compared to the CLR result. The LVHA adjustment brings the housekeeping functions very close to the centre of the dataset.  Centring on the geometric mean of the low variance but high (relative) abundance functions provides a substantial improvement over all other methods in this dataset.
 
@@ -347,7 +347,7 @@ Not applicable
 Not applicable
 
 \subsection*{Availability of data and material}
-All data used in this publication are publicly available. The raw data for the yeast genome was drawn from the reference \textit{Saccharomyces cerevisiae} genome at: https://www.ncbi.nlm.nih.gov/genome/?term=txid4932. The raw data for Figure 3 was obtained from European Nucleotide Archive metagenomics site under the accession number PRJEB31833 using  the  methods in \cite{Macklaim:2018aa}. All R scripts for figure generation and analysis are located on a public GitHub repository at: https://github.com/ggloor/working-papers/.
+All data used in this publication are publicly available. The raw data for the yeast genome was drawn from the reference \textit{Saccharomyces cerevisiae} genome at: https://www.ncbi.nlm.nih.gov/genome/?term=txid4932. were generated from the data  The raw data for Figure 3 was obtained from European Nucleotide Archive metagenomics site under the accession number PRJEB31833 using  the  methods in \cite{Macklaim:2018aa}. Additional data for the tables of counts in Figure 4 were from the following: \cite{mcmurrough:2014,Gierlinski:2015aa,bian:2017}. All R scripts for figure generation and analysis are located on a public GitHub repository at: https://github.com/ggloor/working-papers/Festschrift.
 
 \subsection*{Competing interests}
 The authors declare that they have no competing interests.

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=latex 2015.5.24)  3 JUL 2020 14:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=latex 2015.5.24)  3 JUL 2020 14:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -696,29 +696,26 @@ File: Disp-v-Abund.eps Graphic file (type eps)
 LaTeX Warning: Reference `Gierlinski:2015aa' on page 14 undefined on input line
  305.
 
-
-LaTeX Warning: Citation `bian:2017' on page 14 undefined on input line 305.
-
 [14] [15] [16] (./Gloor-F.bbl [17] [18]
-Underfull \hbox (badness 10000) in paragraph at lines 191--199
+Underfull \hbox (badness 10000) in paragraph at lines 199--207
 []\T1/ntxtlf/m/n/8.5 Palarea-Albaladejo, J., Martín-Fernández, J.A.: zCom-po-si
 -tions --- R pack-
  []
 
 
-Underfull \hbox (badness 6708) in paragraph at lines 191--199
+Underfull \hbox (badness 6708) in paragraph at lines 199--207
 \T1/ntxtlf/m/n/8.5 age for mul-ti-vari-ate im-pu-ta-tion of left-censored data 
 un-der a com-po-si-tional
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 191--199
+Underfull \hbox (badness 10000) in paragraph at lines 199--207
 \T1/ntxtlf/m/n/8.5 ap-proach.  Chemo-met-rics and In-tel-li-gent Lab-o-ra-tory 
 Sys-tems \T1/ntxtlf/b/n/8.5 143\T1/ntxtlf/m/n/8.5 (0), 85
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 191--199
+Underfull \hbox (badness 10000) in paragraph at lines 199--207
 \T1/ntxtlf/m/n/8.5 -- 96 (2015).  DOI http://dx.doi.org/10.1016/j.chemolab.2015
 .02.019.  URL
  []
@@ -741,4 +738,4 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  34i,7n,37p,1636b,332s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Gloor-F.dvi (19 pages, 80316 bytes).
+Output written on Gloor-F.dvi (19 pages, 80984 bytes).
