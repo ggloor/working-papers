@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Gloor-F.aux
+The style file: spmpsci.bst
+Database file #1: bibdesk_refs.bib.bib
+Warning--I didn't find a database entry for ""
+Warning--missing publisher in barcelo:2001
+You've used 39 entries,
+            2945 wiz_defined-function locations,
+            899 strings with 16090 characters,
+and the built_in function-call counts, 25480 in all, are:
+= -- 1863
+> -- 1393
+< -- 2
++ -- 571
+- -- 526
+* -- 1906
+:= -- 3547
+add.period$ -- 74
+call.type$ -- 39
+change.case$ -- 381
+chr.to.int$ -- 0
+cite$ -- 40
+duplicate$ -- 2030
+empty$ -- 1904
+format.name$ -- 564
+if$ -- 5135
+int.to.chr$ -- 0
+int.to.str$ -- 39
+missing$ -- 565
+newline$ -- 199
+num.names$ -- 78
+pop$ -- 919
+preamble$ -- 1
+purify$ -- 341
+quote$ -- 0
+skip$ -- 331
+stack$ -- 0
+substring$ -- 923
+swap$ -- 1330
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 154
+warning$ -- 1
+while$ -- 118
+width$ -- 41
+write$ -- 463
+(There were 2 warnings)
