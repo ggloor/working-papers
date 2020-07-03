@@ -1,0 +1,55 @@
+Response to reviewers
+
+First I want to thank both reviewers for thoughtful and constructive comments.
+
+Reviewer 1:
+
+"Confusion about the CLR" : We have now made clear that the purpose is to infer which features are changing relative to a reference. This has been clarified in the text throughout.
+
+We understand the comment about library size normalization, and agree (somewhat) with the reviewer's point of view. However, the TMM (edgeR) and RLA (DESeq) methods are simply per-sample scaling factors, and so the effective library size normalizations are not compostiionally appropriate. By design, they simply scale the equivalence class of each sample so that each sample has a similar 'total count'
+
+"The search for an invariant denominator" : We thank the reviewer for pointing us to Supplementary figure S1 which shows an example of the problem. We have revised the language to make it clear that  relationships between features is invariant, not absolute abundances
+
+"Otherwise, I found ... simulations" : additional information was added regarding the simulations, and a github site of all code and data is being compiled. Simulation was moved to the methods section.
+
+Comments (numbering refers to reviewer numbering):
+
+(1) we have clarified the intent of the statement at issue here and made it clear that we are referring to the majority position in the field of RNA-seq.
+
+(2) We removed the allusion to metagenomic as it was unnecessary for the arguement.
+
+(3) This has been clarified to indicate that the CLR is a ratio transformation and does not explicitly normalize for library size, but normalization is essentially a side-effect. We have made it clear that the purpose of the IQLR and LVHA approach is indeed to identify a denominator that is relatively constant across the dataset.
+
+(5) This sentence was removed as it was redundant to the argument
+
+(6) We agree, and this is the whole point of choosing an 'invariant' denominator. It is for the purpose of finding what is different between groups relative to that denominator. In this report, we are simply making that assumption explicit, rather than implicit. Note that any method used for differential abundance testing makes assumptions. We are simply bringing these assumptions into the open and discussing them.
+
+(7) Added a statement to make clear that the goal of the analysis is a differential abundance measure relative to an internal constant
+
+(9) the notation has been completely redone at the request of both reviewers. Hopefully it is clearer now
+
+(11,14) description of the simuated dataset is now included in methods, and more details are included on how the asymmetric data were generated. A github site is being constructed where all code and data will be placed.
+
+https://github.com/ggloor/working-papers/tree/master/vera_Festschrift
+
+(12) We removed the reference to ILR and balance based approaches as suggested by the reviewer.
+
+(13) These references have been added to the discussion
+
+
+Reviewer 2:
+
+(1) a figure with mean-variance relationship and the features for the iqlr and lvha denominators is added in the discussion
+
+(2) We thank the reviewer for the mental image of a dropping a dead fish in the reviewer's lap. The reviewer is correct, these normalizations are entirely empirical, and are motivated by the biological problem and not by statisital purity. figure 4 and some additional discussion have been added to address this.
+
+(4) notation has been completely redone
+
+(5) thank you for the suggestion,  a definition of compositioanl asymmetry has been incorporated in the introduction
+
+(6) additional discussion about what is happening at >48% sparsity was added: this is almost certainly because of the tremendous number of asymmetric 0's in the data at that point. Honestly, if two datasets differ that much, then it is probably better for the analyst to walk away
+
+(7) The language was tightned up and the emphasis on normalization was altered as per this reviewer and reviewer 1
+
+(8) the basis language has been clarified
+

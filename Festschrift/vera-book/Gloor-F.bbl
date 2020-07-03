@@ -1,0 +1,276 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{DOI~\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{DOI~\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem{Aitchison:1986}
+Aitchison, J.: The Statistical Analysis of Compositional Data.
+\newblock Chapman \& Hall (1986)
+
+\bibitem{Almeida:2019aa}
+Almeida, A., Mitchell, A.L., Boland, M., Forster, S.C., Gloor, G.B., Tarkowska,
+  A., Lawley, T.D., Finn, R.D.: A new genomic blueprint of the human gut
+  microbiota.
+\newblock Nature \textbf{568}, 499 (2019).
+\newblock \doi{10.1038/s41586-019-0965-1}
+
+\bibitem{altman:1983}
+Altman, D.G., Bland, J.M.: Measurement in medicine: The analysis of method
+  comparison studies.
+\newblock Journal of the Royal Statistical Society. Series D (The Statistician)
+  \textbf{32}(3), pp. 307--317 (1983).
+\newblock \urlprefix\url{http://www.jstor.org/stable/2987937}
+
+\bibitem{barcelo:2001}
+Barcel\'o-Vidal, C., Martin-Fern\`andez, J.A., Pawlowsky-Glahn, V.:
+  Mathematical foundations of compositional data analysis.
+\newblock In: Proceedings of {IAMG}, vol.~1, pp. 1--20 (2001)
+
+\bibitem{Denge00262-18}
+Deng, Z.L., Gottschick, C., Bhuju, S., Masur, C., Abels, C., Wagner-D{\"o}bler,
+  I.: Metatranscriptome analysis of the vaginal microbiota reveals potential
+  mechanisms for protection against metronidazole in bacterial vaginosis.
+\newblock mSphere \textbf{3}(3) (2018).
+\newblock \doi{10.1128/mSphereDirect.00262-18}.
+\newblock \urlprefix\url{https://msphere.asm.org/content/3/3/e00262-18}
+
+\bibitem{Dillies:2013}
+Dillies, M.A., Rau, A., Aubert, J., Hennequet-Antier, C., Jeanmougin, M.,
+  Servant, N., Keime, C., Marot, G., Castel, D., Estelle, J., Guernec, G.,
+  Jagla, B., Jouneau, L., Lalo{\"e}, D., Le~Gall, C., Scha{\"e}ffer, B.,
+  Le~Crom, S., Guedj, M., Jaffr{\'e}zic, F., {French StatOmique Consortium}: A
+  comprehensive evaluation of normalization methods for {Illumina}
+  high-throughput {RNA} sequencing data analysis.
+\newblock Brief Bioinform \textbf{14}(6), 671--83 (2013).
+\newblock \doi{10.1093/bib/bbs046}
+
+\bibitem{fernandes:2013}
+Fernandes, A.D., Macklaim, J.M., Linn, T.G., Reid, G., Gloor, G.B.: Anova-like
+  differential expression (aldex) analysis for mixed population rna-seq.
+\newblock PLoS One \textbf{8}(7), e67019 (2013).
+\newblock \doi{10.1371/journal.pone.0067019}
+
+\bibitem{fernandes:2014}
+Fernandes, A.D., Reid, J.N., Macklaim, J.M., McMurrough, T.A., Edgell, D.R.,
+  Gloor, G.B.: Unifying the analysis of high-throughput sequencing datasets:
+  characterizing {RNA}-seq, 16{S} r{RNA} gene sequencing and selective growth
+  experiments by compositional data analysis.
+\newblock Microbiome \textbf{2}, 15.1--15.13 (2014).
+\newblock \doi{10.1186/2049-2618-2-15}
+
+\bibitem{polyester:2016}
+Frazee, A.C., Jaffe, A.E., Kirchner, R., Leek, J.T.: {polyester: Simulate
+  RNA-seq reads} (2016).
+\newblock {R package version 1.10.0}
+
+\bibitem{Gajer:2012}
+Gajer, P., Brotman, R.M., Bai, G., Sakamoto, J., Sch{\"u}tte, U.M.E., Zhong,
+  X., Koenig, S.S.K., Fu, L., Ma, Z.S., Zhou, X., Abdo, Z., Forney, L.J.,
+  Ravel, J.: Temporal dynamics of the human vaginal microbiota.
+\newblock Sci Transl Med \textbf{4}(132), 132ra52 (2012).
+\newblock \doi{10.1126/scitranslmed.3003605}
+
+\bibitem{Gierlinski:2015aa}
+Gierli{\'n}ski, M., Cole, C., Schofield, P., Schurch, N.J., Sherstnev, A.,
+  Singh, V., Wrobel, N., Gharbi, K., Simpson, G., Owen-Hughes, T., Blaxter, M.,
+  Barton, G.J.: Statistical models for rna-seq data derived from a
+  two-condition 48-replicate experiment.
+\newblock Bioinformatics \textbf{31}(22), 3625--3630 (2015).
+\newblock \doi{10.1093/bioinformatics/btv425}
+
+\bibitem{gloor:effect}
+Gloor, G.B., Macklaim, J.M., Fernandes, A.D.: Displaying variation in large
+  datasets: Plotting a visual summary of effect sizes.
+\newblock Journal of Computational and Graphical Statistics \textbf{25}(3C),
+  971--979 (2016).
+\newblock \doi{10.1080/10618600.2015.1131161}.
+\newblock \urlprefix\url{http://dx.doi.org/10.1080/10618600.2015.1131161}
+
+\bibitem{gloorFrontiers:2017}
+Gloor, G.B., Macklaim, J.M., Pawlowsky-Glahn, V., Egozcue, J.J.: Microbiome
+  datasets are compositional: And this is not optional.
+\newblock Front Microbiol \textbf{8}, 2224 (2017).
+\newblock \doi{10.3389/fmicb.2017.02224}
+
+\bibitem{gloorAJS:2016}
+Gloor, G.B., Macklaim, J.M., Vu, M., Fernandes, A.D.: Compositional uncertainty
+  should not be ignored in high-throughput sequencing data analysis.
+\newblock Austrian Journal of Statistics \textbf{45}, 73--87 (2016).
+\newblock \doi{doi:10.17713/ajs.v45i4.122}
+
+\bibitem{Hummelen:2010}
+Hummelen, R., Fernandes, A.D., Macklaim, J.M., Dickson, R.J., Changalucha, J.,
+  Gloor, G.B., Reid, G.: Deep sequencing of the vaginal microbiota of women
+  with {HIV}.
+\newblock PLoS One \textbf{5}(8), e12078 (2010).
+\newblock \doi{10.1371/journal.pone.0012078}
+
+\bibitem{Lang:2015aa}
+Lang, K.S., Johnson, T.J.: Transcriptome modulations due to a/c2 plasmid
+  acquisition.
+\newblock Plasmid \textbf{80}, 83--9 (2015).
+\newblock \doi{10.1016/j.plasmid.2015.05.005}
+
+\bibitem{bowtie2}
+Langmead, B., Salzberg, S.L.: Fast gapped-read alignment with bowtie 2.
+\newblock Nature methods \textbf{9}(4), 357--359 (2012)
+
+\bibitem{Love:2014aa}
+Love, M.I., Huber, W., Anders, S.: Moderated estimation of fold change and
+  dispersion for rna-seq data with deseq2.
+\newblock Genome Biol \textbf{15}(12), 550.1--550.21 (2014).
+\newblock \doi{10.1186/s13059-014-0550-8}
+
+\bibitem{Loven:2012aa}
+Lov{\'e}n, J., Orlando, D.A., Sigova, A.A., Lin, C.Y., Rahl, P.B., Burge, C.B.,
+  Levens, D.L., Lee, T.I., Young, R.A.: Revisiting global gene expression
+  analysis.
+\newblock Cell \textbf{151}(3), 476--82 (2012).
+\newblock \doi{10.1016/j.cell.2012.10.012}
+
+\bibitem{Macklaim:2015aa}
+Macklaim, J.M., Clemente, J.C., Knight, R., Gloor, G.B., Reid, G.: Changes in
+  vaginal microbiota following antimicrobial and probiotic therapy.
+\newblock Microb Ecol Health Dis \textbf{26}, 27799 (2015)
+
+\bibitem{macklaim:2013}
+Macklaim, J.M., Fernandes, A.D., Di~Bella, J.M., Hammond, J.A., Reid, G.,
+  Gloor, G.B.: Comparative meta-{RNA}-seq of the vaginal microbiota and
+  differential expression by lactobacillus iners in health and dysbiosis.
+\newblock Microbiome \textbf{1}(1), 12 (2013).
+\newblock \doi{10.1186/2049-2618-1-12}
+
+\bibitem{Macklaim:2018aa}
+Macklaim, J.M., Gloor, G.B.: From {RNA}-seq to biological inference: Using
+  compositional data analysis in meta-transcriptomics.
+\newblock Methods Mol Biol \textbf{1849}, 193--213 (2018).
+\newblock \doi{10.1007/978-1-4939-8728-3\_13}
+
+\bibitem{Martino:2019aa}
+Martino, C., Morton, J.T., Marotz, C.A., Thompson, L.R., Tripathi, A., Knight,
+  R., Zengler, K.: A novel sparse compositional technique reveals microbial
+  perturbations.
+\newblock mSystems \textbf{4}(1) (2019).
+\newblock \doi{10.1128/mSystems.00016-19}
+
+\bibitem{McMurrough:2018aa}
+McMurrough, T.A., Brown, C.M., Zhang, K., Hausner, G., Junop, M.S., Gloor,
+  G.B., Edgell, D.R.: Active site residue identity regulates cleavage
+  preference of {LAGLIDADG} homing endonucleases.
+\newblock Nucleic Acids Res \textbf{46}(22), 11990--12007 (2018).
+\newblock \doi{10.1093/nar/gky976}
+
+\bibitem{mcmurrough:2014}
+McMurrough, T.A., Dickson, R.J., Thibert, S.M.F., Gloor, G.B., Edgell, D.R.:
+  Control of catalytic efficiency by a coevolving network of catalytic and
+  noncatalytic residues.
+\newblock Proc Natl Acad Sci U S A \textbf{111}(23), E2376--83 (2014).
+\newblock \doi{10.1073/pnas.1322352111}
+
+\bibitem{Mitchell:2018aa}
+Mitchell, A.L., Scheremetjew, M., Denise, H., Potter, S., Tarkowska, A.,
+  Qureshi, M., Salazar, G.A., Pesseat, S., Boland, M.A., Hunter, F.M.I.,
+  Ten~Hoopen, P., Alako, B., Amid, C., Wilkinson, D.J., Curtis, T.P., Cochrane,
+  G., Finn, R.D.: Ebi metagenomics in 2017: enriching the analysis of microbial
+  communities, from sequence reads to assemblies.
+\newblock Nucleic Acids Res \textbf{46}(D1), D726--D735 (2018).
+\newblock \doi{10.1093/nar/gkx967}
+
+\bibitem{Overbeek:2014aa}
+Overbeek, R., Olson, R., Pusch, G.D., Olsen, G.J., Davis, J.J., Disz, T.,
+  Edwards, R.A., Gerdes, S., Parrello, B., Shukla, M., Vonstein, V., Wattam,
+  A.R., Xia, F., Stevens, R.: The seed and the rapid annotation of microbial
+  genomes using subsystems technology (rast).
+\newblock Nucleic Acids Res \textbf{42}(Database issue), D206--14 (2014).
+\newblock \doi{10.1093/nar/gkt1226}
+
+\bibitem{PalareaAlbaladejo201585}
+Palarea-Albaladejo, J., Mart{\'\i}n-Fern{\'a}ndez, J.A.: z{C}ompositions ---
+  {R} package for multivariate imputation of left-censored data under a
+  compositional approach.
+\newblock Chemometrics and Intelligent Laboratory Systems \textbf{143}(0), 85
+  -- 96 (2015).
+\newblock \doi{http://dx.doi.org/10.1016/j.chemolab.2015.02.019}.
+\newblock
+  \urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0169743915000490}
+
+\bibitem{Peng:2014aa}
+Peng, J., Hao, B., Liu, L., Wang, S., Ma, B., Yang, Y., Xie, F., Li, Y.:
+  Rna-seq and microarrays analyses reveal global differential transcriptomes of
+  mesorhizobium huakuii 7653r between bacteroids and free-living cells.
+\newblock PLoS One \textbf{9}(4), e93626 (2014).
+\newblock \doi{10.1371/journal.pone.0093626}
+
+\bibitem{Quinn206425}
+Quinn, T.P., Erb, I., Richardson, M.F., Crowley, T.M.: Understanding sequencing
+  data as compositions: an outlook and review.
+\newblock bioRxiv  (2017).
+\newblock \doi{10.1101/206425}.
+\newblock
+  \urlprefix\url{https://www.biorxiv.org/content/early/2017/10/19/206425}
+
+\bibitem{Quinn:2017}
+Quinn, T.P., Richardson, M.F., Lovell, D., Crowley, T.M.: propr: An r-package
+  for identifying proportionally abundant features using compositional data
+  analysis.
+\newblock Sci Rep \textbf{7}(1), 16252 (2017).
+\newblock \doi{10.1038/s41598-017-16520-0}
+
+\bibitem{Ravel:2010}
+Ravel, J., Gajer, P., Abdo, Z., Schneider, G.M., Koenig, S.S.K., McCulle, S.L.,
+  Karlebach, S., Gorle, R., Russell, J., Tacket, C.O., Brotman, R.M., Davis,
+  C.C., Ault, K., Peralta, L., Forney, L.J.: Vaginal microbiome of
+  reproductive-age women.
+\newblock Proc Natl Acad Sci U S A \textbf{doi/10.1073/pnas.100611107}(108),
+  4680--4687 (2011)
+
+\bibitem{Robinson:2010}
+Robinson, M.D., McCarthy, D.J., Smyth, G.K.: edger: a bioconductor package for
+  differential expression analysis of digital gene expression data.
+\newblock Bioinformatics \textbf{26}(1), 139--40 (2010).
+\newblock \doi{10.1093/bioinformatics/btp616}
+
+\bibitem{Robinson:2010a}
+Robinson, M.D., Oshlack, A.: A scaling normalization method for differential
+  expression analysis of {RNA-seq} data.
+\newblock Genome Biol \textbf{11}(3), R25.1--R25.9 (2010).
+\newblock \doi{10.1186/gb-2010-11-3-r25}
+
+\bibitem{Scott:2010}
+Scott, M., Gunderson, C.W., Mateescu, E.M., Zhang, Z., Hwa, T.: Interdependence
+  of cell growth and gene expression: origins and consequences.
+\newblock Science \textbf{330}(6007), 1099--102 (2010).
+\newblock \doi{10.1126/science.1192588}
+
+\bibitem{Thellin:1999aa}
+Thellin, O., Zorzi, W., Lakaye, B., De~Borman, B., Coumans, B., Hennen, G.,
+  Grisar, T., Igout, A., Heinen, E.: Housekeeping genes as internal standards:
+  use and limits.
+\newblock J Biotechnol \textbf{75}(2-3), 291--5 (1999)
+
+\bibitem{Vandesompele:2002aa}
+Vandesompele, J., De~Preter, K., Pattyn, F., Poppe, B., Van~Roy, N., De~Paepe,
+  A., Speleman, F.: Accurate normalization of real-time quantitative rt-pcr
+  data by geometric averaging of multiple internal control genes.
+\newblock Genome Biol \textbf{3}(7), RESEARCH0034 (2002)
+
+\bibitem{Wolfs:2016aa}
+Wolfs, J.M., Hamilton, T.A., Lant, J.T., Laforet, M., Zhang, J., Salemi, L.M.,
+  Gloor, G.B., Schild-Poulter, C., Edgell, D.R.: Biasing genome-editing events
+  toward precise length deletions with an rna-guided tevcas9 dual nuclease.
+\newblock Proc Natl Acad Sci U S A  (2016).
+\newblock \doi{10.1073/pnas.1616343114}
+
+\bibitem{Zhao:2013aa}
+Zhao, H., Chen, C., Xiong, Y., Xu, X., Lan, R., Wang, H., Yao, X., Bai, X.,
+  Liu, X., Meng, Q., Zhang, X., Sun, H., Zhao, A., Bai, X., Cheng, Y., Chen,
+  Q., Ye, C., Xu, J.: Global transcriptional and phenotypic analyses of
+  {E}scherichia coli {O157:H7 }strain {X}uzhou21 and its p{O}157\_{S}al cured
+  mutant.
+\newblock PLoS One \textbf{8}(5), e65466 (2013).
+\newblock \doi{10.1371/journal.pone.0065466}
+
+\end{thebibliography}
