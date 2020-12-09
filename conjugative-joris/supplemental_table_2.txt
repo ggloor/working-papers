@@ -1,0 +1,101 @@
+SRR3131692	 pre-term infant
+SRR3131694	 pre-term infant
+SRR3131696	 pre-term infant
+SRR3131698	 pre-term infant
+SRR3131700	 pre-term infant
+SRR3131702	 pre-term infant
+SRR3131704	 pre-term infant
+SRR3131706	 pre-term infant
+SRR3131708	 pre-term infant
+SRR3131710	 pre-term infant
+SRR3131712	 pre-term infant
+SRR3131714	 pre-term infant
+SRR3131716	 pre-term infant
+SRR3131718	 pre-term infant
+SRR3131720	 pre-term infant
+SRR3131722	 pre-term infant
+SRR3131724	 pre-term infant
+SRR3131726	 pre-term infant
+SRR3131728	 pre-term infant
+SRR3131730	 pre-term infant
+SRR3131732	 pre-term infant
+SRR3131734	 pre-term infant
+SRR3131736	 pre-term infant
+SRR3131738	 pre-term infant
+SRR3131740	 pre-term infant
+SRR3131742	 pre-term infant
+SRR3131744	 pre-term infant
+SRR3131746	 pre-term infant
+SRR3131748	 pre-term infant
+SRR3131750	 pre-term infant
+SRR3131752	 pre-term infant
+SRR3131754	 pre-term infant
+SRR3131756	 pre-term infant
+SRR3131758	 pre-term infant
+SRR3131760	 pre-term infant
+SRR3131762	 pre-term infant
+SRR3131764	 pre-term infant
+SRR3131766	 pre-term infant
+SRR3131768	 pre-term infant
+SRR3131770	 pre-term infant
+SRR3131772	 pre-term infant
+SRR3131774	 pre-term infant
+SRR3131776	 pre-term infant
+SRR3131778	 pre-term infant
+SRR3131780	 pre-term infant
+SRR3131782	 pre-term infant
+SRR3131784	 pre-term infant
+SRR3131786	 pre-term infant
+SRR3131788	 pre-term infant
+SRR3131790	 pre-term infant
+SRR3131812	 pre-term infant
+SRR5650110	 general
+SRR5650111	 general
+SRR5650112	 general
+SRR5650113	 general
+SRR5650114	 general
+SRR5650115	 general
+SRR5650116	 general
+SRR5650117	 general
+SRR5650118	 general
+SRR5650119	 general
+SRR5650120	 general
+SRR5650121	 general
+SRR5650122	 general
+SRR5650123	 general
+SRR5650124	 general
+SRR5650125	 general
+SRR5650126	 general
+SRR5650127	 general
+SRR5650128	 general
+SRR5650129	 general
+SRR5650130	 general
+SRR5650131	 general
+SRR5650132	 general
+SRR5650133	 general
+SRR5650134	 general
+SRR5650135	 general
+SRR5650136	 general
+SRR5650137	 general
+SRR5650138	 general
+SRR5650139	 general
+SRR5650140	 general
+SRR5650141	 general
+SRR5650142	 general
+SRR5650143	 general
+SRR5650144	 general
+SRR5650145	 general
+SRR5650146	 general
+SRR5650147	 general
+SRR5650148	 general
+SRR5650149	 general
+SRR5650150	 general
+SRR5650151	 general
+SRR5650152	 general
+SRR5650153	 general
+SRR5650154	 general
+SRR5650155	 general
+SRR5650156	 general
+SRR5650157	 general
+SRR5650158	 general
+SRR5650159	 general
